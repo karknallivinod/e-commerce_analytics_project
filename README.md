@@ -1,4 +1,4 @@
-# End-to-End E-Commerce Analytics: SQL, Python (RFM & Cohorts) & Power BI
+# E-Commerce Analytics: SQL, Python (RFM & Cohorts) & Power BI
 
 An end-to-end data analytics workflow examining **222M in gross revenue** across **6,000 orders** and **1,045 unique customers**. 
 
